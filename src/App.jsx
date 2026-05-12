@@ -11,6 +11,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import AdminPropertyForm from './pages/AdminPropertyForm';
 import ProtectedRoute from './pages/ProtectedRoute';
 
+
 export default function App() {
   return (
     <AuthProvider>
