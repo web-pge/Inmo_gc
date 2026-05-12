@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+@theme {
+  --color-brand: #A31D1D;
+  --color-dark: #1A1A1A;
+  --color-light: #D9D9D9;
+  --color-muted: #666666;
+  --font-serif: 'Playfair Display', serif;
+  --font-sans: 'Poppins', sans-serif;
+}
